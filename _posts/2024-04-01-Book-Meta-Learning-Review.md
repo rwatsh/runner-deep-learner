@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Book Review: Meta Learning:  How To Learn Deep Learning And Thrive In The Digital World"
 date: 2024-04-01
 ---

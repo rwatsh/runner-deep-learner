@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My first post with Jekyll Frontmatter YAML"
 date: 2024-03-25
 ---
