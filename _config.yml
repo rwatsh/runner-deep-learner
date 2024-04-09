@@ -1,4 +1,21 @@
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Running and Deep Learning Blog
 author: Watsh Rajneesh
 description: A blog about running and learning machine learning and deep learning.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-remote-theme
+  - jekyll-redirect-from
