@@ -90,8 +90,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: rwatsh
     url: https://github.com/rwatsh
+    desc: Fork me on GitHub
+    share: false
+
+  - name: GitHub
+    icon: github
+    username: watsh.rajneesh
+    url: https://github.com/watsh-rajneesh
     desc: Fork me on GitHub
     share: false
 
@@ -197,6 +204,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/rwatsh/centrarium.com"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:rwatsh/centrarium.com.git"
