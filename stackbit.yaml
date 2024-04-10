@@ -180,7 +180,7 @@ models:
   home:
     type: page
     label: Home Page
-    file: index.html
+    file: index1.html
     singleInstance: true
     fields:
       - type: string

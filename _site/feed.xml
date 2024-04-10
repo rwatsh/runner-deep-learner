@@ -1,11 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-10T09:03:06-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Running and Deep Learning Blog</title><subtitle>A blog about running and learning machine learning and deep learning.</subtitle><author><name>Watsh Rajneesh</name></author><entry><title type="html">Statesman Cap10K 2024 Run</title><link href="http://localhost:4000/2024/04/07/Cap10K-2024.html" rel="alternate" type="text/html" title="Statesman Cap10K 2024 Run" /><published>2024-04-07T00:00:00-05:00</published><updated>2024-04-07T00:00:00-05:00</updated><id>http://localhost:4000/2024/04/07/Cap10K-2024</id><content type="html" xml:base="http://localhost:4000/2024/04/07/Cap10K-2024.html"><![CDATA[<p><img src="https://www.cap10k.com/wp-content/uploads/2023/12/24Cap10_Website_Swag.png" alt="Cap10K Image" /></p>
-
-<p>Today i am running my first Cap10K race in Austin with my family - my wife Aparna and daughter Aarini. Its a great community event and lot of folks we know are participating. My Saturday Run Club has 45 members participating.</p>
-
-<p>We had a great time at Cap10K - the weather was awesome, bright and sunny and kids had fun running with parents. Since the distance is just 6.1 miles (10K) so lots of families with kids as young as 9yrs were attending the event. My daughter who is about to be 10yr later this month ran with her friend from the neighborhood and completed the course in 1 hr 33 mins, which is a great time for kids. They ran some and walked some. They were elated at the finish line and received their medals with a smile on their faces. Great weather, great company of friends and family, made this a memorable event for us.</p>]]></content><author><name>Watsh Rajneesh</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Book Review: Meta Learning: How To Learn Deep Learning And Thrive In The Digital World</title><link href="http://localhost:4000/2024/04/01/Book-Meta-Learning-Review.html" rel="alternate" type="text/html" title="Book Review: Meta Learning: How To Learn Deep Learning And Thrive In The Digital World" /><published>2024-04-01T00:00:00-05:00</published><updated>2024-04-01T00:00:00-05:00</updated><id>http://localhost:4000/2024/04/01/Book-Meta-Learning-Review</id><content type="html" xml:base="http://localhost:4000/2024/04/01/Book-Meta-Learning-Review.html"><![CDATA[<p><img src="/assets/img/meta-learning.png" alt="Book Cover" />
-Nice little book about how a person (Radek) went from no comp sci skills to being an ML engineer and also found employment as one in one of the best companies (Nvidia) working in ML space. The book is terse and to the point. Radek’s journey and his documenting it in the book has inspired quite a few folks out there - <a href="https://medium.com/@marsgrins/notes-on-meta-learning-by-radek-osmulski-4ece2cf29739">like this</a>. The one thing i benefited in reading this book is the confidence in <a href="https://course.fast.ai">course.fast.ai</a> that Radek has was the only ray of light i needed in selecting one of the several options that are available today of learning about machine learning (and only growing by the day). Other than that i think to a person in the same situation as the author the book may have more appeal (and i am sure there are several out there who want to ride the AI wave and get employed or change careers). Thanks Radek for writing this lovely book!</p>]]></content><author><name>Watsh Rajneesh</name></author><summary type="html"><![CDATA[Nice little book about how a person (Radek) went from no comp sci skills to being an ML engineer and also found employment as one in one of the best companies (Nvidia) working in ML space. The book is terse and to the point. Radek’s journey and his documenting it in the book has inspired quite a few folks out there - like this. The one thing i benefited in reading this book is the confidence in course.fast.ai that Radek has was the only ray of light i needed in selecting one of the several options that are available today of learning about machine learning (and only growing by the day). Other than that i think to a person in the same situation as the author the book may have more appeal (and i am sure there are several out there who want to ride the AI wave and get employed or change careers). Thanks Radek for writing this lovely book!]]></summary></entry><entry><title type="html">My first post with Jekyll Frontmatter YAML</title><link href="http://localhost:4000/2024/03/25/Initial-Post.html" rel="alternate" type="text/html" title="My first post with Jekyll Frontmatter YAML" /><published>2024-03-25T00:00:00-05:00</published><updated>2024-03-25T00:00:00-05:00</updated><id>http://localhost:4000/2024/03/25/Initial-Post</id><content type="html" xml:base="http://localhost:4000/2024/03/25/Initial-Post.html"><![CDATA[<p>Hi everyone! This is my first post on my new blog which i created in github.
-Currently i am reading the book - Meta Leaerning by Radek Osmulski. The book is about his journey from not being a programmer to learning deep learning and becoming a champion in Kaggle competition. He also became a web developer using ruby on rails and then switched to machine learning and did the course at course.fast.ai by Jeremy Howard. The course according to Radek is very beginner friendly and does not require you to know much more than basic python programming and some high school level math. If one can persevere through the book then completing the course and becoming good in solving data science problems on Kaggle is all possible. Radek shows the path he followed and i am trying to follow the same path and may be at some point will discover somethig more suitable to my situation but for the start i am going to go through the fast.ai book first. The entire book is available for free so all one needs to do is watch the video and follow the instructions and do the exercises and read the book as required. With all that rigour one can become a deep learner.</p>
-
-<p>I have also been on and off with running. The last time i ran &gt; 10 miles was this year’s second half marathon in Austin Half Marathon 2024. After that i have become complacent but want to resume the running habit and run at least 30 mins every day to start with. I have a treadmill in the room adjacent to my bed room right behind my desk where i work most of the time i am in home. So regardless of the outside weather i have the facility to run right inside my home. I have a Sole F80 treadmill and its very well built.</p>
-
-<p>So hoping form today i will be able to embark on a new journey in my life - starting on fast.ai book and running every day. I will also try to write as often as possible.</p>]]></content><author><name>Watsh Rajneesh</name></author><summary type="html"><![CDATA[Hi everyone! This is my first post on my new blog which i created in github. Currently i am reading the book - Meta Leaerning by Radek Osmulski. The book is about his journey from not being a programmer to learning deep learning and becoming a champion in Kaggle competition. He also became a web developer using ruby on rails and then switched to machine learning and did the course at course.fast.ai by Jeremy Howard. The course according to Radek is very beginner friendly and does not require you to know much more than basic python programming and some high school level math. If one can persevere through the book then completing the course and becoming good in solving data science problems on Kaggle is all possible. Radek shows the path he followed and i am trying to follow the same path and may be at some point will discover somethig more suitable to my situation but for the start i am going to go through the fast.ai book first. The entire book is available for free so all one needs to do is watch the video and follow the instructions and do the exercises and read the book as required. With all that rigour one can become a deep learner.]]></summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centrarium</title>
+    <description>A blog about running and learning machine learning and deep learning.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Apr 2024 18:31:07 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:31:07 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Statesman Cap10K 2024 Run</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://www.cap10k.com/wp-content/uploads/2023/12/24Cap10_Website_Swag.png&quot; alt=&quot;Cap10K Image&quot; /&gt;&lt;/p&gt; &lt;p&gt;Today i am running my first Cap10K race in Austin with my family - my wife Aparna and daughter Aarini. Its a great community event...</description>
+        <pubDate>Sun, 07 Apr 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024/04/07/Cap10K-2024.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/07/Cap10K-2024.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Book Review: Meta Learning:  How To Learn Deep Learning And Thrive In The Digital World</title>
+        <description>&lt;p&gt;Nice little book about how a person (Radek) went from no comp sci skills to being an ML engineer and also found employment as one in one of the best...</description>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/books/2024/04/01/Book-Meta-Learning-Review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2024/04/01/Book-Meta-Learning-Review.html</guid>
+        
+        
+        <category>Books</category>
+        
+      </item>
+    
+      <item>
+        <title>My first post with Jekyll Frontmatter YAML</title>
+        <description>&lt;p&gt;Hi everyone! This is my first post on my new blog which i created in github. Currently i am reading the book - Meta Leaerning by Radek Osmulski. The book...</description>
+        <pubDate>Mon, 25 Mar 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024/03/25/Initial-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/25/Initial-Post.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many...</description>
+        <pubDate>Mon, 20 Apr 2015 03:43:59 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many...</description>
+        <pubDate>Sat, 18 Apr 2015 14:25:52 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/2015/04/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/18/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sat, 18 Apr 2015 14:25:52 -0500</pubDate>
+        <link>http://localhost:4000/dummy/2015/04/18/dummy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/18/dummy.html</guid>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+  </channel>
+</rss>

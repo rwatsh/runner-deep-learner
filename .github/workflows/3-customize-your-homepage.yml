@@ -3,7 +3,7 @@ name: Step 3, Customize your homepage
 # This step triggers after the learner updates their homepage.
 # This workflow updates from step 3 to step 4.
 
-# This will run every time we update `index.md` in the `my-pages` branch.
+# This will run every time we update `index1.md` in the `my-pages` branch.
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
     branches:
       - my-pages
     paths:
-      - index.md
+      - index1.md
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
