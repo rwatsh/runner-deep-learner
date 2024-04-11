@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Watsh Rajneesh / Musings about running and deep learning"
+title                    : "Watsh Rajneesh / Running and Deep Learning"
 title_separator          : "-"
 name                     : &name "Watsh Rajneesh"
 description              : &description "Running and deep learning blog"
