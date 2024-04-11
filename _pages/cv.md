@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume'"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,11 +30,22 @@ Work experience
 Skills
 ======
 * Java
+  * Spring Boot
 * Cloud Computing
   * Kubernetes
-  * Docker
   * Terraform (IaC)
+  * Oracle Cloud Infrastructure
 * Python
   * Machine Learning
   * Data Science
 
+Certifications
+======
+* [Oracle Cloud Infrastructure 2018 Certified Architect Associate](https://www.credly.com/badges/0bec19da-7d12-430f-aab1-6759e95b2226/linked_in_profile)
+* [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/afbf25d8-5c21-486e-9b04-cc0d5b39ba34?source=linked_in_profile)
+* [Docker Certified Associate](https://certification.mirantis.com/b407e25d-9d2c-418c-b9be-91bbe2bfb3d5#gs.78nupf)
+* [M101J: MongoDB for Java Developers](https://university.mongodb.com/course_completion/24540ba216594c40ac7f3686d79a1046)
+* Sun Certified Java Programmer for J2SE 5
+* Sun Certified Developer for Java Web Services for J2EE 1.4
+* Sun Certified Web Component Developer for J2EE 1.4
+* Sun Certified Business Component Developer for J2EE 1.4
