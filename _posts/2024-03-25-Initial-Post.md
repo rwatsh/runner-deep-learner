@@ -1,6 +1,7 @@
 ---
 title: "My first post with Jekyll Frontmatter YAML"
 date: 2024-03-25
+permalink: /posts/2024/03/Initial-Post/
 tags:
   - Musings
 ---
