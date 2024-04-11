@@ -25,4 +25,10 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  source 'http://rubygems.org'
+  source 'http://rubygems.org'
+  gem 'sass', '~>3.3.0.rc.3'
+  gem 'compass', '~>1.0.0.alpha.18'
+  gem 'susy', '~>2.0.0.rc.2'
+  gem 'breakpoint', '~>2.4.0'
 end
