@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume'"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, San Jose State University, USA, 2017
+* B.S. in Electronics & Communications, Shivaji University, India, 1998
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2022: Senior Software Engineer @ Apple
+  * Skills: Kubernetes, Java, Python, Spring Boot, Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2014 - July 2022: Principal Member of Technical Staff @ Oracle
+  * Skills: Kubernetes, Java, Python, Terraform, Oracle Cloud Infrastructure
+  * Worked on Oracle Cloud Infrastructure (OCI), Java Cloud Service and WebLogic Kubernetes Marketplace Apps
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2007 - June 2014: Staff Software Engineer @ Brocade Communications
+  * Skills: Java, Network Management Systems, SNMP, REST APIs, Virtualization, OpenStack, ESXi, vCenter, vSphere
+  * Worked on Brocade Network Advisor, Host Connectivity Manager and other SAN management systems
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+* Cloud Computing
+  * Kubernetes
+  * Docker
+  * Terraform (IaC)
+* Python
+  * Machine Learning
+  * Data Science
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
